@@ -47,4 +47,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: nehabiswal/Homework8:latest
+          tags: nehabiswal/IS601.HW88:latest
